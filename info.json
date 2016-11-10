@@ -6,7 +6,7 @@
   "author": "Xuerian",
   "contact": "xuerian@gmail.com",
   "homepage": "",
-  "description": "Place alternative recipes in assemblers to keep handcrafting working",
+  "description": "Change alternative recipes like synthetic wood to assembler only to keep handcrafting working",
   "dependencies": [
 	"base >= 0.14.0",
 	"? bobplates >= 0.14.0",
