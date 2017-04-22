@@ -6,6 +6,8 @@
   "author": "Xuerian",
   "contact": "xuerian@gmail.com",
   "homepage": "",
+  "license": "MPL v2.0",
+  "repository": "https://github.com/Xuerian/fix-recursive-handcrafting",
   "description": "Change alternative recipes like synthetic wood to assembler only to keep handcrafting working",
   "dependencies": [
 	"base >= 0.14.0",
